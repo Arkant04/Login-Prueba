@@ -1,3 +1,4 @@
 -Instalamos nodemon y expreess
 -Hoy vamos a empezar a usar dotenv
 -Hemos visto el ".env"
+-Hemos estado usando thunder de nuevo   
