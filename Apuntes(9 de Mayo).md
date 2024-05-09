@@ -2,3 +2,4 @@
 -Hoy vamos a empezar a usar dotenv
 -Hemos visto el ".env"
 -Hemos estado usando thunder de nuevo   
+-Express-sessions se usa pal login 
