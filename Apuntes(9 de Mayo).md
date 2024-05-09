@@ -1,0 +1,3 @@
+-Instalamos nodemon y expreess
+-Hoy vamos a empezar a usar dotenv
+-Hemos visto el ".env"
